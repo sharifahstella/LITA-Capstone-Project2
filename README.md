@@ -26,7 +26,7 @@ The Customer data includes the following columns:
 
 #### Data Example:
 
-![sales data set](https://github.com/sharifahstella/LITA-Capstone-Project/blob/main/sales.JPG)
+![Customerdata set](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/customerTable.JPG)
 
   
 
