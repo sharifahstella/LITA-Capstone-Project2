@@ -50,7 +50,7 @@ ii) The number of cancelled and active subscriptions by customers
 
 iii) Monthly Subscription Counts
 
-![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/monnnn.JPG)
 
 
 
