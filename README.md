@@ -38,6 +38,21 @@ ii) identify the most popular subscription types.
 
 ![salesProduct](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/popular.JPG)
 
+Also made some other additional reports using a pivot table which include :
+
+i) Total revenue by each region
+
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
+
+ii) The number of cancelled and active subscriptions by customers
+
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
+
+iii) Monthly Subscription Counts
+
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
+
+
 
  
 
