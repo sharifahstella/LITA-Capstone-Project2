@@ -64,9 +64,9 @@ I found out that subcription have been varying from month to month so therefore 
 
   ![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/lineeeeeeeeee.JPG)
 
-  iii) A pie chart showing the number of active and canceled subscription among the customer
+  iii) A pie chart showing the number of active and canceled subscription among the customer whereby there was more of active customers than the canceled ones 
 
-  ![]()
+  ![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/chart.JPG)
 
 ## 2.2 SQL Queries for Analysis
 
