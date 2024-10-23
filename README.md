@@ -36,7 +36,7 @@ i) Calculate the average subscription duration using pivot Table
 
 ii) identify the most popular subscription types.
 
-![salesProduct](https://github.com/sharifahstella/LITA-Capstone-Project/blob/main/Region.JPG)
+![salesProduct](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/popular.JPG)
 
 
  
