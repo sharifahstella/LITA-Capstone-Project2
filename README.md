@@ -54,7 +54,15 @@ I found out that subcription have been varying from month to month so therefore 
 
 ![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/monnnn.JPG)
 
-- Used bar graph,pie chart and a line graph to represent the summary of the total sales in the dataset as follows 
+- Used bar graph,pie chart and a line graph to represent the summary of the total sales in the dataset as follows
+
+  i) Bar graph showing Most popular subscription being basic with the most customers
+  
+  ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bargra.JPG)
+
+  ii) The line graph showing the monthly trend of subscription which has dropped over the year of 2023 by 41%
+
+  ![]
 
 ## 2.2 SQL Queries for Analysis
 
