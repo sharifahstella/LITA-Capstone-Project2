@@ -32,7 +32,7 @@ The Customer data includes the following columns:
 
 i) Calculate the average subscription duration using pivot Table 
 
-![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project/blob/main/monthly.JPG)
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
 
 ii) identify the most popular subscription types.
 
