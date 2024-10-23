@@ -62,7 +62,11 @@ I found out that subcription have been varying from month to month so therefore 
 
   ii) The line graph showing the monthly trend of subscription which has dropped over the year of 2023 by 41%
 
-  ![]
+  ![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/lineeeeeeeeee.JPG)
+
+  iii) A pie chart showing the number of active and canceled subscription among the customer
+
+  ![]()
 
 ## 2.2 SQL Queries for Analysis
 
