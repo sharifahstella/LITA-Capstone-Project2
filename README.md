@@ -28,7 +28,18 @@ The Customer data includes the following columns:
 
 ![Customerdata set](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/customerTable.JPG)
 
-  
+  - Used pivot tables to summarize the data set 
+
+i) Calculate the average subscription duration using pivot Table 
+
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project/blob/main/monthly.JPG)
+
+ii) identify the most popular subscription types.
+
+![salesProduct](https://github.com/sharifahstella/LITA-Capstone-Project/blob/main/Region.JPG)
+
+
+ 
 
 
 
