@@ -5,9 +5,9 @@ This project aims to analyze customer data for a subscription service to identif
 
 
 ### Goals:
-  - To find key subscription patterns,
-  - calculate metrics, and
-  - generate reports.
+  - To track customer behavior
+  - Monitor subscription types
+  - Understand trends in cancellations and renewals.
     
 ## Data Preparation in Excel
 ### 1.1 Data Overview
