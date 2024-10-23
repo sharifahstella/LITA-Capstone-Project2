@@ -9,8 +9,8 @@ This project aims to analyze customer data for a subscription service to identif
   - Monitor subscription types
   - Understand trends in cancellations and renewals.
     
-## Data Preparation in Excel
-### 1.1 Data Overview
+## 1.1 Data Preparation in Excel
+###  Data Overview
 
 The Customer data includes the following columns:
 
@@ -54,7 +54,9 @@ I found out that subcription have been varying from month to month so therefore 
 
 ![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/monnnn.JPG)
 
+- Used bar graph,pie chart and a line graph to represent the summary of the total sales in the dataset as follows 
 
+## 2.2 SQL Queries for Analysis
 
  
 
