@@ -42,13 +42,15 @@ Also made some other additional reports using a pivot table which include :
 
 i) Total revenue by each region
 
-![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/rego.JPG)
 
 ii) The number of cancelled and active subscriptions by customers
 
 ![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/cancelled.JPG)
 
 iii) Monthly Subscription Counts
+
+I found out that subcription have been varying from month to month so therefore the trend has reduced from 2022 to 20233 by 41%
 
 ![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/monnnn.JPG)
 
