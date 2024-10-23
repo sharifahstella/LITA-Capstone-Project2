@@ -46,7 +46,7 @@ i) Total revenue by each region
 
 ii) The number of cancelled and active subscriptions by customers
 
-![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/cancelled.JPG)
 
 iii) Monthly Subscription Counts
 
