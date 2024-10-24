@@ -52,7 +52,7 @@ iii) Monthly Subscription Counts
 
 I found out that subcription have been varying from month to month so therefore the trend has reduced from 2022 to 20233 by 41%
 
-![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/monnnn.JPG)
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/monthcount.JPG)
 
 - Used bar graph,pie chart and a line graph to represent the summary of the total sales in the dataset as follows
 
