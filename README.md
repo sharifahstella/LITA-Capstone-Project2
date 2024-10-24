@@ -58,17 +58,17 @@ I found out that subcription have been varying from month to month so therefore 
 
   i) Bar graph showing Most popular subscription being basic with the most customers
   
-  ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bargra.JPG)
+  ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bar2.JPG)
 
-  i)Bar graph showing Total revenue generated in each region being with East having the most generated revenue
+  ii)Bar graph showing Total revenue generated in each region being with East having the most generated revenue
 
  ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bar3.JPG)
 
-  ii) The line graph showing the monthly trend of subscription which has dropped over the year of 2023 by 41%
+  iii) The line graph showing the monthly trend of subscription which has dropped over the year of 2023 by 41%
 
   ![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/lineeeeeeeeee.JPG)
 
-  iii) A pie chart showing the number of active and canceled subscription among the customer whereby there was more of active customers than the canceled ones 
+  iv) A pie chart showing the number of active and canceled subscription among the customer whereby there was more of active customers than the canceled ones 
 
   ![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/chart.JPG)
 
