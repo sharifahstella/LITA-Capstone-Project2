@@ -60,6 +60,10 @@ I found out that subcription have been varying from month to month so therefore 
   
   ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bargra.JPG)
 
+  i)Bar graph showing Total revenue generated in each region being with East having the most generated revenue
+
+ ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bargra.JPG)
+
   ii) The line graph showing the monthly trend of subscription which has dropped over the year of 2023 by 41%
 
   ![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/lineeeeeeeeee.JPG)
