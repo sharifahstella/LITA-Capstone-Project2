@@ -42,7 +42,7 @@ Also made some other additional reports using a pivot table which include :
 
 i) Total revenue by each region
 
-![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/rego.JPG)
+![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/revenue.JPG)
 
 ii) The number of cancelled and active subscriptions by customers
 
