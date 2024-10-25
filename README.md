@@ -177,7 +177,7 @@ These queries provide a comprehensive analysis of the Customer Segmentation for 
   
 These insights are highly actionable and can guide strategic decisions for customer retention, revenue optimization, and targeted marketing efforts based on customer segmentation data.
 
-
+## 3.3 Power BI Dashboard
 
 
  
