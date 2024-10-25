@@ -84,6 +84,7 @@ GROUP BY Region;
 ```
 This code provides an insight into regional customer distribution with NORTH having the most unique distributed customers
 
+
 - Find the most popular subscription type by the number of customers
 
 ```
@@ -95,9 +96,10 @@ ORDER BY Customer_Count DESC;
 ```
 This query calculates the count of customers for each SubscriptionType, sorted in descending order to show the most popular type at the top which the Basic subscription Type with the most customer counts 
 
+
 - Find customers who canceled their subscription within 6 months
 
-  ```
+ ```
   SELECT CustomerID, CustomerName, SubscriptionType, SubscriptionStart, SubscriptionEnd
 FROM SubscriptionData
 WHERE Canceled = 'Yes' 
@@ -146,7 +148,6 @@ FROM SubscriptionData
 WHERE Canceled = 'TRUE'
 GROUP BY Region
 ORDER BY Cancellations DESC;
-
 ```
 
 This query identifies the top three regions with the highest number of canceled subscriptions, showing regional cancellation trends.with North,East and South having the most cancellations respectively
