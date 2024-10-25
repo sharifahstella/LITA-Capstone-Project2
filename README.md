@@ -163,7 +163,19 @@ GROUP BY Canceled;
 
 This query groups customers by subscription status (Canceled), showing counts for both active (FALSE) and canceled (TRUE) subscriptions.With alot of canceled subscriptions copmared to active ones
 
+## Summary of Key Insights
 
+These queries provide a comprehensive analysis of the Customer Segmentation for a Subscription Service, which enables to:
+
+- Determine regional distribution and popularity of subscription types.
+- Identify early cancellations for customer retention initiatives.
+- Assess average customer retention through subscription duration.
+- Recognize high-value long-term customers.
+- Evaluate revenue contribution by subscription type.
+- Monitor regions with higher cancellation rates, aiding in targeted interventions.
+- Review the active versus canceled customer counts for overall customer health assessment.
+  
+These insights are highly actionable and can guide strategic decisions for customer retention, revenue optimization, and targeted marketing efforts based on customer segmentation data.
 
 
 
