@@ -78,10 +78,13 @@ I found out that subcription have been varying from month to month so therefore 
 
 ```
 SELECT Region, COUNT(CustomerID) AS Total_Customers
-FROM SubscriptionData
+FROM [dbo].[LITA Capstone Dataset2]
 GROUP BY Region;
 
 ```
+
+![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/res1.PNG)
+
 This code provides an insight into regional customer distribution with NORTH having the most unique distributed customers
 
 
