@@ -169,6 +169,7 @@ FROM [dbo].[LITA Capstone Dataset2]
 GROUP BY Canceled;
 
 ```
+![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/act.PNG)
 
 This query groups customers by subscription status (Canceled), showing counts for both active (FALSE) and canceled (TRUE) subscriptions.With alot of canceled subscriptions copmared to active ones
 
