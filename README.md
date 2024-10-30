@@ -157,6 +157,7 @@ WHERE Canceled = 'TRUE'
 GROUP BY Region
 ORDER BY Cancellations DESC;
 ```
+![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/medd.PNG)
 
 This query identifies the top three regions with the highest number of canceled subscriptions, showing regional cancellation trends.with North,East and South having the most cancellations respectively
 
