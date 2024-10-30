@@ -111,7 +111,9 @@ WHERE Canceled = 'Yes'
     AND DATEDIFF(DAY, SubscriptionStart, SubscriptionEnd) <= 180;
     
 ```
-This query identifies customers who canceled their subscription within six months (180 days), providing early churn data of which there was no customer found thatcanceled their subscriptions with six months in the customer segimentation dataset.
+![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/no.PNG)
+
+This query identifies customers who canceled their subscription within six months (180 days), providing early churn data of which there was no customer found that canceled their subscriptions with six months in the customer segimentation dataset.
 
 - Calculate the average subscription duration for all customers
 
