@@ -133,6 +133,8 @@ FROM [dbo].[LITA Capstone Dataset2]
 WHERE DATEDIFF(DAY, SubscriptionStart, SubscriptionEnd) > 365;
 
 ```
+![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/rres5.PNG)
+
 This query identifies customers whose subscriptions lasted longer than one year (365 days), indicating higher retention.
 
 - Calculate total revenue by subscription type
