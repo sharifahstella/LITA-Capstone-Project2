@@ -97,6 +97,8 @@ GROUP BY SubscriptionType
 ORDER BY Customer_Count DESC;
 
 ```
+![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/res2.PNG)
+
 This query calculates the count of customers for each SubscriptionType, sorted in descending order to show the most popular type at the top which the Basic subscription Type with the most customer counts 
 
 
