@@ -121,6 +121,7 @@ FROM [dbo].[LITA Capstone Dataset2]
 WHERE SubscriptionEnd IS NOT NULL;
 
 ```
+![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/res4.PNG)
 
 This query calculates the average subscription duration (in days) across all customers, which can help identify general customer retention length of which it is 365 days
 
