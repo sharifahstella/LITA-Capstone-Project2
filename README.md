@@ -187,6 +187,17 @@ Created visuals such as line charts, bar charts, and tables, enabling detailed a
 
 ![](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/segment.PNG)
 
+#### Storytelling Outcomes
+The Power BI dashboard provides a narrative-driven overview of Customer segmentaton subscription service. Insights drawn include:
+
+- KPI card that include Totoal revenue of 68Millions,Average subscription duration of 365 days,Active subcription with 60k,Cancelled subscriptions of 15k and Renewal rate of 80%.
+- A pie chart of subcription Type with Basic having the most popular subscription.
+- A bar chart showing the distribution of customers across the subscription type with Basic having still the most customr subscription.
+- A matrix having subscription type by region with basic having the highest numer of customers in the Eastern region.
+- A line graph showing Canceled Subscriptions and Total Renewals by Month of which it shows fro the month of febuary to May there was a high increase of cancelled subsciption which needs more attention.
+- A filter slicer by year.
+
+## Conclusions
 
 
 
