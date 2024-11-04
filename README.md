@@ -181,6 +181,8 @@ Customer Segmentation for a Subscription Service project, SQL queries play a piv
 
 ## 3.3 Power BI Dashboard
 
+#### Power BI Dashboard Components and Storytelling Insights
+Created visuals such as line charts, bar charts, and tables, enabling detailed analysis with slicers to filter by Year.
 
  
 
