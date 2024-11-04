@@ -194,7 +194,7 @@ The Power BI dashboard provides a narrative-driven overview of Customer segmenta
 - A pie chart of subcription Type with Basic having the most popular subscription.
 - A bar chart showing the distribution of customers across the subscription type with Basic having still the most customr subscription.
 - A matrix having subscription type by region with basic having the highest numer of customers in the Eastern region.
-- A line graph showing Canceled Subscriptions and Total Renewals by Month of which it shows fro the month of febuary to May there was a high increase of cancelled subsciption which needs more attention.
+- A line graph showing Canceled Subscriptions and Total Renewals by Month of which it shows from the month of febuary to May there was a high increase of cancelled subsciption which needs more attention.
 - A filter slicer by year.
 
 ## Conclusions
