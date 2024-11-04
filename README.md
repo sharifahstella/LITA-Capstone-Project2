@@ -177,7 +177,7 @@ GROUP BY Canceled;
 This query groups customers by subscription status (Canceled), showing counts for both active (FALSE) and canceled (TRUE) subscriptions.With alot of canceled subscriptions copmared to active ones
 
 ## Summary of Key Insights
-
+Customer Segmentation for a Subscription Service project, SQL queries play a pivotal role in extracting and analyzing data to uncover meaningful insights about customer behavior, subscription patterns, and revenue trends
 
 ## 3.3 Power BI Dashboard
 
