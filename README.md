@@ -34,7 +34,7 @@ i) Calculate the average subscription duration using pivot Table
 
 ![Monthly sales](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/subscription.JPG)
 
-ii) identify the most popular subscription types.
+ii) Identify the most popular subscription types.
 
 ![salesProduct](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/sub.JPG)
 
@@ -60,7 +60,7 @@ I found out that subcription have been varying from month to month so therefore 
   
   ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bar2.JPG)
 
-  ii)Bar graph showing Total revenue generated in each region being with East having the most generated revenue
+  ii) Bar graph showing Total revenue generated in each region being with East having the most generated revenue
 
  ![bar](https://github.com/sharifahstella/LITA-Capstone-Project2/blob/main/bar3.JPG)
 
@@ -176,7 +176,7 @@ GROUP BY Canceled;
 
 This query groups customers by subscription status (Canceled), showing counts for both active (FALSE) and canceled (TRUE) subscriptions.With alot of canceled subscriptions copmared to active ones
 
-## Summary of Key Insights
+#### Summary of Key Insights
 Customer Segmentation for a Subscription Service project, SQL queries play a pivotal role in extracting and analyzing data to uncover meaningful insights about customer behavior, subscription patterns, and revenue trends
 
 ## 3.3 Power BI Dashboard
@@ -198,6 +198,5 @@ The Power BI dashboard provides a narrative-driven overview of Customer segmenta
 - A filter slicer by year.
 
 ## Conclusions
-
-
+This analysis on customer segmentation provides actionable insights into customer behaviors, subscription patterns, and revenue generation across different segments. By leveraging key columns such as SubscriptionType, SubscriptionDuration, Region, Canceled, and Revenue, this project effectively highlights areas of growth and improvement for the subscription service.
 
